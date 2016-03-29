@@ -1,20 +1,6 @@
 package jva.test;
 
-import java.io.File;
-import java.util.ArrayList;
-import java.util.Random;
-
-import jva.test.iccid.ChinaMobileICCID;
-import jva.test.iccid.ChinaTelcomICCID;
-import jva.test.iccid.ChinaUnionICCID;
-import jva.test.ip.GetRandomIP;
-import jva.test.ip.IPTranslate;
-import jva.test.safe.AESUtils;
-import net.zip4j.core.ZipFile;
-
 public class Main {
-
-
 
 	public static void main(String[] args) {
 
